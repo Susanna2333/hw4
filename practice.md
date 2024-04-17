@@ -2,6 +2,8 @@
 ## Week 4
 ### Markdown
 
+$$\text{Age, years} \sim \mathcal{N}(\mu=57,\,\sigma^{2}=225)$$
+
 If you want to make something **bold**
 
 If you wish to <u>underline</u>
